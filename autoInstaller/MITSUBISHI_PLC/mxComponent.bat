@@ -1,0 +1,2 @@
+mxComponent.txt
+exit

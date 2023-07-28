@@ -1,0 +1,2 @@
+GXWorkPassword.txt
+exit
